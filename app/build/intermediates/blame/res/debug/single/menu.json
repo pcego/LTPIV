@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/pcego/Activity/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/pcego/Activity/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/pcego/Activity/app/build/intermediates/res/merged/debug/menu/tela2.xml",
+        "source": "/home/pcego/Activity/app/src/main/res/menu/tela2.xml"
+    }
+]
